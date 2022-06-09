@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fKVLR36PyGxvpIwVYL4vVlqzgEwdkkJBH1zdTo73BE2YEKiOxKlRC/FNNTWlBdNZv56aUr7NFn2tS6lF58/gKg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\natha\\Desktop\\Volibear\\Ex5\\Ex5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\natha\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}
